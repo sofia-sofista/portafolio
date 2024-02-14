@@ -55,6 +55,33 @@ font:bold 10px z3,verdana,sans-serif;
 }
 
 
+.video-container{
+	border:3px solid;
+	border-radius:5px;
+	color:#228B22;
+	height:0px;
+	padding-bottom:56.25%;
+	position:relative;
+	background:#000000;
+
+
+}
+
+
+.video-container video{
+	position:absolute;
+	top:0px;
+	height:100%;
+	width:100%;
+	
+	 
+ }
+ 
+ .Minos{
+	
+width:100%;
+ }
+
 a:hover {
   color: #37b3ed;
   text-decoration: none;
